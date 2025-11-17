@@ -243,3 +243,15 @@
     }
   }
 }
+
+.page__content a,
+.masthead a,
+.sidebar a {
+  color: #000000 !important;
+}
+
+.page__content a:hover,
+.masthead a:hover,
+.sidebar a:hover {
+  color: #cc5200 !important;
+}
