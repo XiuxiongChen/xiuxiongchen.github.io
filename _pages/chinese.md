@@ -8,21 +8,7 @@ redirect_from:
 ---
 
 
-<!-- 引一次即可 -->
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-<!-- 蓝色徽章：站点总访问量（site pv） -->
-<span class="badge">访问量 <span id="busuanzi_value_site_pv">0</span></span>
-
-<style>
-.badge{
-  display:inline-flex; gap:.5em; align-items:center;
-  background:#52adc8; color:#fff; border-radius:999px;
-  padding:.4em .8em;
-  font:14px/1 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
-  font-weight:600;
-}
-</style>
 
 
 
