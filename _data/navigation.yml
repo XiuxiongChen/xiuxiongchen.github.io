@@ -25,7 +25,10 @@ main:
     
   - title: "CV"
     url: /cv/
-
+    
+  - title: "Further Information"
+    url: /further information/
+    
   - title: "中文版"
     url: /chinese/
     
