@@ -90,98 +90,98 @@ redirect_from:
 
 37. **[Volume estimates for Kähler-Einstein metrics and rigidity of complex structures](https://projecteuclid.org/journals/journal-of-differential-geometry/volume-93/issue-2/Volume-estimates-for-K%c3%a4hler-Einstein-metrics-and-rigidity-of-complex/10.4310/jdg/1361800865.full)**,Chen, X.-X.; Donaldson, S. K., J. Differential Geom. 93 (2013), no. 2, 191–201.
 
-38. **[Volume estimates for Kähler-Einstein metrics: the three-dimensional case, Chen, X.-X.; Donaldson, S. K., J. Differential Geom. 93 (2013), no. 2, 175–189.
+38. **[Volume estimates for Kähler-Einstein metrics: the three-dimensional case](https://projecteuclid.org/journals/journal-of-differential-geometry/volume-93/issue-2/Volume-estimates-for-K%c3%a4hler-Einstein-metrics--The-three-dimensional/10.4310/jdg/1361800864.full)**, Chen, X.-X.; Donaldson, S. K., J. Differential Geom. 93 (2013), no. 2, 175–189.
 
-39. **[The pseudo-Calabi flow, Chen, Xiuxiong; Zheng, Kai, J. Reine Angew. Math. 674 (2013), 195–251.
+39. **[The pseudo-Calabi flow](https://www.degruyterbrill.com/document/doi/10.1515/crelle.2012.033/html?lang=en&srsltid=AfmBOopnCPGQo-tlGrS8XvG9s2RqXli25HXnEA2-WAExLFW-l7a3HcXI&utm_source=chatgpt.com)**, Chen, Xiuxiong; Zheng, Kai, J. Reine Angew. Math. 674 (2013), 195–251.
 
-40. **[Space of Kähler metrics (V)—Kähler quantization, Chen, Xiuxiong; Sun, Song, Progr. Math., 297, Birkhäuser/Springer, Basel, 2012, 19–41.
+40. **[Space of Kähler metrics (V)—Kähler quantization](https://link.springer.com/chapter/10.1007/978-3-0348-0257-4_2)**, Chen, Xiuxiong; Sun, Song, Progr. Math., 297, Birkhäuser/Springer, Basel, 2012, 19–41.
 
-41. **[The complex Monge-Ampère equation on compact Kähler manifolds, Chen, Xiuxiong; He, Weiyong, Math. Ann. 354 (2012), no. 4, 1583–1600.
+41. **[The complex Monge-Ampère equation on compact Kähler manifolds](https://link.springer.com/article/10.1007/s00208-012-0780-6)**, Chen, Xiuxiong; He, Weiyong, Math. Ann. 354 (2012), no. 4, 1583–1600.
 
-42. **[The Kähler Ricci flow on Fano manifolds (I), Chen, Xiuxiong; Wang, Bing, J. Eur. Math. Soc. (JEMS) 14 (2012), no. 6, 2001–2038.
+42. **[The Kähler Ricci flow on Fano manifolds (I)](https://ems.press/journals/jems/articles/5229?utm_source=chatgpt.com)**, Chen, Xiuxiong; Wang, Bing, J. Eur. Math. Soc. (JEMS) 14 (2012), no. 6, 2001–2038.
 
-43. **[Space of Ricci flows I, Chen, Xiuxiong; Wang, Bing, Comm. Pure Appl. Math. 65 (2012), no. 10, 1399–1457.
+43. **[Space of Ricci flows I](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21414?casa_token=FGKtBno3ZekAAAAA%3AKH9wKOw967G4VYAmFKaVX8Pz3yTabmXGbNYUGpX6qBpLRDdGOCKT_oX9dHY0H41JT43CgOxa4i6abHE)**, Chen, Xiuxiong; Wang, Bing, Comm. Pure Appl. Math. 65 (2012), no. 10, 1399–1457.
 
-44. **[The Calabi flow on Kähler surfaces with bounded Sobolev constant (I), Chen, Xiuxiong; He, Weiyong, Math. Ann. 354 (2012), no. 1, 227–261.
+44. **[The Calabi flow on Kähler surfaces with bounded Sobolev constant (I)](https://link.springer.com/article/10.1007/s00208-011-0723-7)**, Chen, Xiuxiong; He, Weiyong, Math. Ann. 354 (2012), no. 1, 227–261.
 
-45. **[The Kähler Ricci flow on Fano surfaces (I), Chen, Xiuxiong; Wang, Bing, Math. Z. 270 (2012), no. 1-2, 577–587.
+45. **[The Kähler Ricci flow on Fano surfaces (I)](https://link.springer.com/article/10.1007/s00209-010-0813-3)**, Chen, Xiuxiong; Wang, Bing, Math. Z. 270 (2012), no. 1-2, 577–587.
 
-46. **[The space of volume forms, Chen, Xiuxiong; He, Weiyong, Int. Math. Res. Not. IMRN 2011, no. 5, 967–1009.
+46. **[The space of volume forms](https://ieeexplore.ieee.org/abstract/document/8204912)**, Chen, Xiuxiong; He, Weiyong, Int. Math. Res. Not. IMRN 2011, no. 5, 967–1009.
 
-47. **[On the weak Kähler-Ricci flow, Chen, X. X.; Tian, G.; Zhang, Z., Trans. Amer. Math. Soc. 363 (2011), no. 6, 2849–2863.
+47. **[On the weak Kähler-Ricci flow](https://www.jstor.org/stable/23032773?casa_token=g9CjunCxWNIAAAAA%3AkfJ_taEUWAq0tRs4NHUM7y5pWDorZC1S1qXmSLFgQ4pj-fdkwWs5ABMypCle72ex-GD3o99uyisdAHSSfJ37ZK8tJiZdnphhsvwBByHDw0I308lQ-bQ)**, Chen, X. X.; Tian, G.; Zhang, Z., Trans. Amer. Math. Soc. 363 (2011), no. 6, 2849–2863.
 
-48. **[Moduli spaces of critical Riemannian metrics with  Ln2  norm curvature bounds Chen, Xiuxiong; Weber, Brian, Adv. Math. 226 (2011), no. 2, 1307–1330.
+48. **[Moduli spaces of critical Riemannian metrics with  Ln2  norm curvature bounds](https://www.sciencedirect.com/science/article/pii/S0001870810002926)**, Chen, Xiuxiong; Weber, Brian, Adv. Math. 226 (2011), no. 2, 1307–1330.
 
-49. **[The Calabi flow on toric Fano surfaces, Chen, Xiuxiong; He, Weiyong, Math. Res. Lett. 17 (2010), no. 2, 231–241.
+49. **[The Calabi flow on toric Fano surfaces](https://www.researchgate.net/publication/1777888_The_Calabi_flow_on_toric_Fano_Surfaces)**, Chen, Xiuxiong; He, Weiyong, Math. Res. Lett. 17 (2010), no. 2, 231–241.
 
-50. **[Remarks on Kähler Ricci flow, Chen, Xiuxiong; Wang, Bing, J. Geom. Anal. 20 (2010), no. 2, 335–353.
+50. **[Remarks on Kähler Ricci flow](https://link.springer.com/article/10.1007/s12220-009-9113-8)**, Chen, Xiuxiong; Wang, Bing, J. Geom. Anal. 20 (2010), no. 2, 335–353.
 
-51. **[Stability of Kähler-Ricci flow, Chen, Xiuxiong; Li, Haozhao, J. Geom. Anal. 20 (2010), no. 2, 306–334.
+51. **[Stability of Kähler-Ricci flow](https://link.springer.com/article/10.1007/s12220-009-9112-9?utm_source=chatgpt.com)**, Chen, Xiuxiong; Li, Haozhao, J. Geom. Anal. 20 (2010), no. 2, 306–334.
 
-52. **[A note on Kähler-Ricci soliton, Chen, Xiuxiong; Sun, Song; Tian, Gang, Int. Math. Res. Not. IMRN 2009, no. 17, 3328–3336.
+52. **[A note on Kähler-Ricci soliton](https://academic.oup.com/imrn/article-abstract/2009/17/3328/728924)**, Chen, Xiuxiong; Sun, Song; Tian, Gang, Int. Math. Res. Not. IMRN 2009, no. 17, 3328–3336.
 
-53. **[Kähler-Ricci flow with small initial energy, Chen, Xiuxiong; Li, Haozhao; Wang, Bing, Geom. Funct. Anal. 18 (2009), no. 5, 1525–1563.
+53. **[Kähler-Ricci flow with small initial energy](https://link.springer.com/article/10.1007/s00039-008-0690-7?utm_source=chatgpt.com)**, Chen, Xiuxiong; Li, Haozhao; Wang, Bing, Geom. Funct. Anal. 18 (2009), no. 5, 1525–1563.
 
-54. **[Space of Kähler metrics. III. On the lower bound of the Calabi energy and geodesic distance, Chen, Xiuxiong, Invent. Math. 175 (2009), no. 3, 453–503.
+54. **[Space of Kähler metrics. III. On the lower bound of the Calabi energy and geodesic distance](https://link.springer.com/article/10.1007/s00222-008-0153-7?utm_source=chatgpt.com)**, Chen, Xiuxiong, Invent. Math. 175 (2009), no. 3, 453–503.
 
-55. **[Test configuration and geodesic rays, Chen, Xiuxiong; Tang, Yudong, Astérisque No. 321 (2008), 139–167.
+55. **[Test configuration and geodesic rays](https://www.numdam.org/item/AST_2008__321__139_0/?utm_source=chatgpt.com)**, Chen, Xiuxiong; Tang, Yudong, Astérisque No. 321 (2008), 139–167.
 
-56. **[The Kähler-Ricci flow on Kähler manifolds with 2-non-negative traceless bisectional curvature operator, Chen, Xiuxiong; Li, Haozhao, Chinese Ann. Math. Ser. B 29 (2008), no. 5, 543–556.
+56. **[The Kähler-Ricci flow on Kähler manifolds with 2-non-negative traceless bisectional curvature operator](https://link.springer.com/article/10.1007/s11401-007-0294-9)**, Chen, Xiuxiong; Li, Haozhao, Chinese Ann. Math. Ser. B 29 (2008), no. 5, 543–556.
 
-57. **[Geometry of Kähler metrics and foliations by holomorphic discs, Chen, X. X.; Tian, G., Publ. Math. Inst. Hautes Études Sci. No. 107 (2008), 1–107.
+57. **[Geometry of Kähler metrics and foliations by holomorphic discs](https://www.numdam.org/item/10.1007/s10240-008-0013-4.pdf)**, Chen, X. X.; Tian, G., Publ. Math. Inst. Hautes Études Sci. No. 107 (2008), 1–107.
 
-58. **[On conformally Kähler, Einstein manifolds, Chen, Xiuxiong; Lebrun, Claude; Weber, Brian, J. Amer. Math. Soc. 21 (2008), no. 4, 1137–1168.
+58. **[On conformally Kähler, Einstein manifolds](https://www.ams.org/journals/jams/2008-21-04/S0894-0347-08-00594-8/)**, Chen, Xiuxiong; Lebrun, Claude; Weber, Brian, J. Amer. Math. Soc. 21 (2008), no. 4, 1137–1168.
 
-59. **[On the Calabi flow, Chen, X. X.; He, W. Y., Amer. J. Math. 130 (2008), no. 2, 539–570.
+59. **[On the Calabi flow](https://muse.jhu.edu/article/235634)**, Chen, X. X.; He, W. Y., Amer. J. Math. 130 (2008), no. 2, 539–570.
 
-60. **[On Kähler manifolds with positive orthogonal bisectional curvature, Chen, X. X., Adv. Math. 215 (2007), no. 2, 427–445.
+60. **[On Kähler manifolds with positive orthogonal bisectional curvature](https://www.sciencedirect.com/science/article/pii/S0001870806003793)**, Chen, X. X., Adv. Math. 215 (2007), no. 2, 427–445.
 
-61. **[Ricci flow on surfaces with degenerate initial metrics, Chen, Xiuxiong; Ding, Weiyue, J. Partial Differential Equations 20 (2007), no. 3, 193–202.
+61. **[Ricci flow on surfaces with degenerate initial metrics](https://www.worldscientific.com/doi/abs/10.1142/9789813220881_0047)**, Chen, Xiuxiong; Ding, Weiyue, J. Partial Differential Equations 20 (2007), no. 3, 193–202.
 
-62. **[Singular angles of weak limiting metrics under certain integral curvature bounds, Chen, Qing; Chen, Xiuxiong; He, Weiyong, Pacific J. Math. 231 (2007), no. 1, 35–49.
+62. **[Singular angles of weak limiting metrics under certain integral curvature bounds](https://msp.org/pjm/2007/231-1/p03.xhtml)**, Chen, Qing; Chen, Xiuxiong; He, Weiyong, Pacific J. Math. 231 (2007), no. 1, 35–49.
 
-63. **[A note on uniformization of Riemann surfaces by Ricci flow, Chen, Xiuxiong; Lu, Peng; Tian, Gang, Proc. Amer. Math. Soc. 134 (2006), no. 11, 3391–3393.
+63. **[A note on uniformization of Riemann surfaces by Ricci flow](https://www.jstor.org/stable/4098048?casa_token=yGGUle-9mQIAAAAA%3Ak2APTqqv5Va2i0Fdeb6XuAonZOC6JPhqIfGbKwvoulWCECag861Yz1AebDUno4VMMeJjGX6FlQaaoIj-yEuMoK_SkMqkJjHAjVYI2bk6wiq4Qq_oidI)**, Chen, Xiuxiong; Lu, Peng; Tian, Gang, Proc. Amer. Math. Soc. 134 (2006), no. 11, 3391–3393.
 
-64. **[Ricci flow on Kähler-Einstein manifolds, Chen, X. X.; Tian, G., Duke Math. J. 131 (2006), no. 1, 17–73.
+64. **[Ricci flow on Kähler-Einstein manifolds](https://projecteuclid.org/journals/duke-mathematical-journal/volume-131/issue-1/Ricci-flow-on-K%C3%A4hler-Einstein-manifolds/10.1215/S0012-7094-05-13112-X.short)**, Chen, X. X.; Tian, G., Duke Math. J. 131 (2006), no. 1, 17–73.
 
-65. **[On the lower bound of energy functional  E1 . I. A stability theorem on the Kähler Ricci flow, Chen, Xiuxiong, J. Geom. Anal. 16 (2006), no. 1, 23–38.
+65. **[On the lower bound of energy functional  E1 . I. A stability theorem on the Kähler Ricci flow](https://link.springer.com/article/10.1007/BF02930985)**, Chen, Xiuxiong, J. Geom. Anal. 16 (2006), no. 1, 23–38.
 
-66. **[The structure of HCMU metric in a  K -surface, Chen, Qing; Chen, Xiuxiong; Wu, Yingyi, Int. Math. Res. Not. 2005, no. 16, 941–958.
+66. **[The structure of HCMU metric in a  K -surface](https://academic.oup.com/imrn/article-abstract/2005/16/941/692623?utm_source=chatgpt.com&login=false)**, Chen, Qing; Chen, Xiuxiong; Wu, Yingyi, Int. Math. Res. Not. 2005, no. 16, 941–958.
 
-67. **[Partial regularity for homogeneous complex Monge-Ampere equations, Chen, Xiuxiong; Tian, Gang, C. R. Math. Acad. Sci. Paris 340 (2005), no. 5, 337–340.
+67. **[Partial regularity for homogeneous complex Monge-Ampere equations](https://www.sciencedirect.com/science/article/pii/S1631073X04005771)**, Chen, Xiuxiong; Tian, Gang, C. R. Math. Acad. Sci. Paris 340 (2005), no. 5, 337–340.
 
-68. **[Uniqueness of extremal Kähler metrics, Chen, Xiuxiong; Tian, Gang, C. R. Math. Acad. Sci. Paris 340 (2005), no. 4, 287–290.
+68. **[Uniqueness of extremal Kähler metrics](https://www.sciencedirect.com/science/article/pii/S1631073X04005795)**, Chen, Xiuxiong; Tian, Gang, C. R. Math. Acad. Sci. Paris 340 (2005), no. 4, 287–290.
 
-69. **[A new parabolic flow in Kähler manifolds, Chen, X. X., Comm. Anal. Geom. 12 (2004), no. 4, 837–852.
+69. **[A new parabolic flow in Kähler manifolds](https://intlpress.com/site/pub/files/_fulltext/journals/cag/2004/0012/0004/CAG-2004-0012-0004-a004.pdf?utm_source=chatgpt.com)**, Chen, X. X., Comm. Anal. Geom. 12 (2004), no. 4, 837–852.
 
-70. **[The space of Kähler metrics. II, Calabi, E.; Chen, X. X., J. Differential Geom. 61 (2002), no. 2, 173–193.
+70. **[The space of Kähler metrics. II](https://projecteuclid.org/journals/journal-of-differential-geometry/volume-61/issue-2/The-Space-of-K%c3%a4hler-Metrics-II/10.4310/jdg/1090351383.full)**, Calabi, E.; Chen, X. X., J. Differential Geom. 61 (2002), no. 2, 173–193.
 
-71. **[Recent progress in Kähler geometry, Chen, Xiuxiong, Higher Education Press, Beijing, 2002, 273–282.
+71. **[Recent progress in Kähler geometry](https://arxiv.org/pdf/math/0304262)**, Chen, Xiuxiong, Higher Education Press, Beijing, 2002, 273–282.
 
-72. **[Ricci flow on Kähler-Einstein surfaces, Chen, X. X.; Tian, G., Invent. Math. 147 (2002), no. 3, 487–544.
+72. **[Ricci flow on Kähler-Einstein surfaces](https://link.springer.com/article/10.1007/s002220100181)**, Chen, X. X.; Tian, G., Invent. Math. 147 (2002), no. 3, 487–544.
 
-73. **[Calabi flow in Riemann surfaces revisited: a new point of view, Chen, X. X., Internat. Math. Res. Notices 2001, no. 6, 275–297.
+73. **[Calabi flow in Riemann surfaces revisited: a new point of view](https://ieeexplore.ieee.org/abstract/document/8205035)**, Chen, X. X., Internat. Math. Res. Notices 2001, no. 6, 275–297.
 
-74. **[Ricci flow on Kähler manifolds, Chen, Xiuxiong; Tian, Gang, C. R. Acad. Sci. Paris Sér. I Math. 332 (2001), no. 3, 245–248.
+74. **[Ricci flow on Kähler manifolds](https://www.semanticscholar.org/paper/Ricci-flow-on-K%C3%A4hler-manifolds-Chen-Tian/76c7662908101f01883fbd5a74ec1dcdc7d86bf7?utm_source=chatgpt.com)**, Chen, Xiuxiong; Tian, Gang, C. R. Acad. Sci. Paris Sér. I Math. 332 (2001), no. 3, 245–248.
 
-75. **[Existence of extremal metrics on almost homogeneous manifolds of cohomogeneity one, Guan, Daniel; Chen, Xiuxiong, Asian J. Math. 4 (2000), no. 4, 817–829.
+75. **[Existence of extremal metrics on almost homogeneous manifolds of cohomogeneity one](https://web.archive.org/web/20161201005052id_/http://math.ucr.edu/~zguan/ajm.pdf)**, Guan, Daniel; Chen, Xiuxiong, Asian J. Math. 4 (2000), no. 4, 817–829.
 
-76. **[The space of Kähler metrics, Chen, Xiuxiong, J. Differential Geom. 56 (2000), no. 2, 189–234.
+76. **[The space of Kähler metrics](https://projecteuclid.org/journals/journal-of-differential-geometry/volume-56/issue-2/The-Space-of-K%c3%a4hler-Metrics/10.4310/jdg/1090347643.full)**, Chen, Xiuxiong, J. Differential Geom. 56 (2000), no. 2, 189–234.
 
-77. **[On the lower bound of the Mabuchi energy and its application, Chen, Xiuxiong, Internat. Math. Res. Notices 2000, no. 12, 607–623.
+77. **[On the lower bound of the Mabuchi energy and its application](https://ieeexplore.ieee.org/abstract/document/8178831)**, Chen, Xiuxiong, Internat. Math. Res. Notices 2000, no. 12, 607–623.
 
-78. **[Obstruction to the existence of metric whose curvature has umbilical Hessian in a  K -surface, Chen, Xiuxiong, Comm. Anal. Geom. 8 (2000), no. 2, 267–299.
+78. **[Obstruction to the existence of metric whose curvature has umbilical Hessian in a  K -surface](https://dialnet.unirioja.es/servlet/articulo?codigo=708718)**, Chen, Xiuxiong, Comm. Anal. Geom. 8 (2000), no. 2, 267–299.
 
-79. **[Extremal Hermitian metrics on Riemann surfaces, Chen, Xiuxiong, Calc. Var. Partial Differential Equations 8 (1999), no. 3, 191–232.
+79. **[Extremal Hermitian metrics on Riemann surfaces](https://link.springer.com/article/10.1007/s005260050123)**, Chen, Xiuxiong, Calc. Var. Partial Differential Equations 8 (1999), no. 3, 191–232.
 
-80. **[Remarks on the existence of branch bubbles on the blowup analysis of equation  −Δu=e2u  in dimension two, Chen, Xiuxiong, Comm. Anal. Geom. 7 (1999), no. 2, 295–302.
+80. **[Remarks on the existence of branch bubbles on the blowup analysis of equation  −Δu=e2u  in dimension two](https://intlpress.com/site/pub/files/_fulltext/journals/cag/1999/0007/0002/CAG-1999-0007-0002-a004.pdf?utm_source=chatgpt.com)**, Chen, Xiuxiong, Comm. Anal. Geom. 7 (1999), no. 2, 295–302.
 
-81. **[Extremal Hermitian metrics on Riemannian surfaces, Chen, Xiuxiong, Internat. Math. Res. Notices 1998, no. 15, 781–797.
+81. **[Extremal Hermitian metrics on Riemannian surfaces](https://openurl.ebsco.com/EPDB%3Agcd%3A6%3A23297862/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A80104524&crl=c&link_origin=scholar.google.com)**, Chen, Xiuxiong, Internat. Math. Res. Notices 1998, no. 15, 781–797.
 
-82. **[Weak limits of Riemannian metrics in surfaces with integral curvature bound, Chen, Xiuxiong, Calc. Var. Partial Differential Equations 6 (1998), no. 3, 189–226.
+82. **[Weak limits of Riemannian metrics in surfaces with integral curvature bound](https://link.springer.com/article/10.1007/s005260050089?utm_source=chatgpt.com)**, Chen, Xiuxiong, Calc. Var. Partial Differential Equations 6 (1998), no. 3, 189–226.
 
-83. **[Extremal Hermitian metrics with curvature distortion in a Riemann surface, Chen, Xiuxiong, ProQuest LLC, Ann Arbor, MI, 1994, 63 pp.
+83. **[Extremal Hermitian metrics with curvature distortion in a Riemann surface](https://www.proquest.com/docview/304132767?pq-origsite=gscholar&fromopenview=true)**, Chen, Xiuxiong, ProQuest LLC, Ann Arbor, MI, 1994, 63 pp.
 
-84. **[Deformation of surfaces preserving principal curvatures, Chen, Xiu Xiong; Peng, Chia-Kuei, Lecture Notes in Math., 1369, Springer-Verlag, Berlin, 1989, 63–70.
+84. **[Deformation of surfaces preserving principal curvatures](https://link.springer.com/chapter/10.1007/BFb0087527)**, Chen, Xiu Xiong; Peng, Chia-Kuei, Lecture Notes in Math., 1369, Springer-Verlag, Berlin, 1989, 63–70.
 
 
