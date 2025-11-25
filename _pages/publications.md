@@ -18,7 +18,7 @@ redirect_from:
 
 1. **[Volume gap theorems for Ricci nonnegative metrics and Einstein metrics](https://global-sci.com/index.php/jms/article/view/13498?utm_source)**, Chen, Xiuxiong; Dong, Conghan, J. Math. Study 58 (2025), no. 2, 133–144.
 
-2. **[The legacy of Eugenio Calabi (1923–2023)](https://www.researchgate.net/publication/386312047_The_Legacy_of_Eugenio_Calabi_1923-2023?utm_source)**,Chen, Xiuxiong, Notices Amer. Math. Soc. 71 (2024), no. 11, 1502–1519.
+2. **[The legacy of Eugenio Calabi (1923–2023)](https://www.ams.org/journals/notices/202411/rnoti-p1502.pdf)**,Chen, Xiuxiong, Notices Amer. Math. Soc. 71 (2024), no. 11, 1502–1519.
 
 3. **[Some topics in the Ricci flow](https://www.ivysci.com/en/articles/7646913__Some_Topics_in_the_Ricci_Flow?utm_source=chatgpt.com)**, Chen, Xiuxiong; Wang, Bing,J. Math. Study 57 (2024), no. 3, 379–397.
   
