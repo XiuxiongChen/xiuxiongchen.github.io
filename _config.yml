@@ -23,7 +23,7 @@ repository               : "XiuxiongChen/xiuxiongchen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xiuxiong.png"
+  avatar           : "xiuxiongchen.png"
   name             : "Xiuxiong Chen"
   pronouns         : # example: "she/her"  
   bio              : "陈秀雄"
