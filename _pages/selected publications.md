@@ -12,12 +12,12 @@ redirect_from:
 
 ---
 
-<div id="pub-list">
+
 
 {% include base_path %}
 - Journal papers:
 --- 
-
+<div id="pub-list">
 1. **[Volume gap theorems for Ricci nonnegative metrics and Einstein metrics](https://global-sci.com/index.php/jms/article/view/13498?utm_source)**, Chen, Xiuxiong; Dong, Conghan, J. Math. Study 58 (2025), no. 2, 133–144.
 
 2. **[The legacy of Eugenio Calabi (1923–2023)](https://www.ams.org/journals/notices/202411/rnoti-p1502.pdf)**,Chen, Xiuxiong, Notices Amer. Math. Soc. 71 (2024), no. 11, 1502–1519.
