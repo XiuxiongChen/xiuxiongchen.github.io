@@ -14,14 +14,14 @@ main:
   - title: "Employment"
     url: /employment/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Research Overview"
+    url: /research overview/
 
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "In the News"
+    url: /in the news/    
     
  #  - title: "Portfolio"
  #   url: /portfolio/
@@ -29,11 +29,11 @@ main:
  #  - title: "Blog Posts"
  #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Honors and Awards"
+    url: /honors and awards/
 
-  - title: "Calabi Series"
-    url: /Calabi Series/
+  - title: "Selected Publications"
+    url: /selected publications/
     
  # - title: "Further Information"
  #   url: /further information/
