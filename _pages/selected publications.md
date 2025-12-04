@@ -17,7 +17,7 @@ redirect_from:
 {% include base_path %}
 - Journal papers:
 --- 
-<div id="pub-list">
+<div id="pub-list" markdown="1">
 1. **[Volume gap theorems for Ricci nonnegative metrics and Einstein metrics](https://global-sci.com/index.php/jms/article/view/13498?utm_source)**, Chen, Xiuxiong; Dong, Conghan, J. Math. Study 58 (2025), no. 2, 133–144.
 
 2. **[The legacy of Eugenio Calabi (1923–2023)](https://www.ams.org/journals/notices/202411/rnoti-p1502.pdf)**,Chen, Xiuxiong, Notices Amer. Math. Soc. 71 (2024), no. 11, 1502–1519.
@@ -197,14 +197,14 @@ document.addEventListener('DOMContentLoaded', function () {
   var container = document.getElementById('pub-list');
   if (!container) return;
 
-  var ol = container.querySelector('ol');
-  if (!ol) return;
+  // 找到容器里的所有 li（无论是 ol 还是 ul）
+  var items = container.querySelectorAll('li');
+  var maxVisible = 2;  // 只保留前两篇显示
 
-  var items = ol.querySelectorAll('li');
-  var maxVisible = 2;  // 仅显示前两篇重要论文
-
+  // 如果论文数量不超过 2 篇，就不需要按钮
+  var btn = document.getElementById('show-all-pubs');
   if (items.length <= maxVisible) {
-    document.getElementById('show-all-pubs').style.display = 'none';
+    if (btn) btn.style.display = 'none';
     return;
   }
 
@@ -213,11 +213,14 @@ document.addEventListener('DOMContentLoaded', function () {
     items[i].style.display = 'none';
   }
 
-  document.getElementById('show-all-pubs').addEventListener('click', function () {
-    for (var i = maxVisible; i < items.length; i++) {
-      items[i].style.display = '';
-    }
-    this.style.display = 'none';
-  });
+  // 点击按钮：显示全部，并把按钮隐藏
+  if (btn) {
+    btn.addEventListener('click', function () {
+      for (var i = maxVisible; i < items.length; i++) {
+        items[i].style.display = '';
+      }
+      this.style.display = 'none';
+    });
+  }
 });
 </script>
