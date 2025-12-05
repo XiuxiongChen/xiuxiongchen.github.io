@@ -22,7 +22,8 @@ redirect_from:
 
 1. **[The legacy of Eugenio Calabi (1923–2023)](https://www.ams.org/journals/notices/202411/rnoti-p1502.pdf)**,Chen, Xiuxiong, Notices Amer. Math. Soc. 71 (2024), no. 11, 1502–1519.
 
-
+--- 
+--- 
 <details>
   <summary>Load More Publications</summary>
   <div markdown="1">
