@@ -17,7 +17,7 @@ redirect_from:
 {% include base_path %}
 - Journal papers:
 --- 
-<div id="pub-list" markdown="1">
+
 1. **[Volume gap theorems for Ricci nonnegative metrics and Einstein metrics](https://global-sci.com/index.php/jms/article/view/13498?utm_source)**, Chen, Xiuxiong; Dong, Conghan, J. Math. Study 58 (2025), no. 2, 133–144.
 
 2. **[The legacy of Eugenio Calabi (1923–2023)](https://www.ams.org/journals/notices/202411/rnoti-p1502.pdf)**,Chen, Xiuxiong, Notices Amer. Math. Soc. 71 (2024), no. 11, 1502–1519.
@@ -25,6 +25,9 @@ redirect_from:
 3. **[Some topics in the Ricci flow](https://www.ivysci.com/en/articles/7646913__Some_Topics_in_the_Ricci_Flow?utm_source=chatgpt.com)**, Chen, Xiuxiong; Wang, Bing, J. Math. Study 57 (2024), no. 3, 379–397.
   
 4. **[The  L∞  estimates for parabolic complex Monge-Ampère and Hessian equations](https://www.researchgate.net/publication/358259793_The_Linfty_estimates_for_parabolic_complex_Monge-Ampere_and_Hessian_equations)**, Chen, Xiuxiong; Cheng, Jingrui, Pure Appl. Math. Q. 19 (2023), no. 6, 2869–2913.
+
+<details>
+  <summary>展开全部</summary>
 
 5. **[Gravitational instantons with faster than quadratic curvature decay](https://projecteuclid.org/journals/acta-mathematica/volume-227/issue-2/Gravitational-instantons-with-faster-than-quadratic-curvature-decay-I/10.4310/ACTA.2021.v227.n2.a2.full?utm_source=chatgpt.com)**, Chen, Gao; Chen, Xiuxiong, Acta Math. 227 (2021), no. 2, 263–307.
 
@@ -187,40 +190,4 @@ redirect_from:
 84. **[Deformation of surfaces preserving principal curvatures](https://link.springer.com/chapter/10.1007/BFb0087527)**, Chen, Xiu Xiong; Peng, Chia-Kuei, Lecture Notes in Math., 1369, Springer-Verlag, Berlin, 1989, 63–70.
 
 
-
-</div>
-
-<button id="show-all-pubs">点击查看全部</button>
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  var container = document.getElementById('pub-list');
-  if (!container) return;
-
-  // 找到容器里的所有 li（无论是 ol 还是 ul）
-  var items = container.querySelectorAll('li');
-  var maxVisible = 2;  // 只保留前两篇显示
-
-  // 如果论文数量不超过 2 篇，就不需要按钮
-  var btn = document.getElementById('show-all-pubs');
-  if (items.length <= maxVisible) {
-    if (btn) btn.style.display = 'none';
-    return;
-  }
-
-  // 隐藏第 3 篇及之后的论文
-  for (var i = maxVisible; i < items.length; i++) {
-    items[i].style.display = 'none';
-  }
-
-  // 点击按钮：显示全部，并把按钮隐藏
-  if (btn) {
-    btn.addEventListener('click', function () {
-      for (var i = maxVisible; i < items.length; i++) {
-        items[i].style.display = '';
-      }
-      this.style.display = 'none';
-    });
-  }
-});
-</script>
+</details>
