@@ -32,8 +32,11 @@ main:
   - title: "Honors and Awards"
     url: /honors and awards/
 
-  - title: "Selected Publications"
-    url: /selected publications/
+  - title: "Publications"
+    url: /publications/
+  
+ # - title: "Selected Publications"
+ #   url: /selected publications/
     
  # - title: "Further Information"
  #   url: /further information/
