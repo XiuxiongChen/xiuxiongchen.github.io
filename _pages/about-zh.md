@@ -1,3 +1,5 @@
+alt_url: /about/
+
 ---
 layout: single
 title: "关于我"
