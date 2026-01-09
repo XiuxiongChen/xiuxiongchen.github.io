@@ -1,0 +1,21 @@
+main:
+  - title: "教育经历"
+    url: /zh/education/
+
+  - title: "工作经历"
+    url: /zh/employment/
+
+  - title: "研究概述"
+    url: /zh/research overview/
+
+  - title: "新闻"
+    url: /zh/in the news/    
+    
+  - title: "获奖荣誉"
+    url: /zh/honors and awards/
+
+  - title: "发表文章"
+    url: /zh/publications/
+
+  - title: "EN"
+    url: /
