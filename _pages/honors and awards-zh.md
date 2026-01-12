@@ -7,3 +7,14 @@ author_profile: true
 ---
 
 ---
+{% include base_path %}
+
+
+- **[2002，国际数学家大会（ICM）受邀报告人](https://en.wikipedia.org/wiki/List_of_International_Congresses_of_Mathematicians_Plenary_and_Invited_Speakers)**
+- **[2015，美国数学会会士](https://www.ams.org/fellows_by_year.cgi?year=2015)**
+- **[2019，奥斯瓦尔德·维布伦几何学奖](https://www.ams.org/journals/notices/201904/rnoti-p610.pdf)**
+- **[2019，西蒙斯数学会士](https://www.simonsfoundation.org/mathematics-physical-sciences/simons-investigators/simons-investigators-awardees/)**
+- **[2020，中国科学技术大学杰出研究校长奖](https://news.ustc.edu.cn/info/1055/73961.htm)**
+- **[2020，成果入选中国国内十大科技新闻](https://news.ustc.edu.cn/info/1032/73686.htm)**
+- **[2020，成果入选中国十大科技进展新闻](https://www.cas.cn/cm/202101/t20210121_4775288.shtml)**
+- **[2021，成果入选中国国内十大科技新闻](https://news.ustc.edu.cn/info/1001/78041.htm)**
