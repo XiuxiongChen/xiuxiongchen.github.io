@@ -12,13 +12,12 @@ redirect_from:
 ---
 {% include base_path %}
 
-
-- 2022-present, Distinguished Chair Professor, University of Science and Technology of China.
-- 2019-2022, Distinguished Professor, Stony Brook University, USA. 
-- 2010-2019, Professor, Stony Brook University, USA.
-- 2005-2010, Professor, University of Wisconsin–Madison, USA. 
-- 2002-2005, Associate Professor, University of Wisconsin–Madison, USA.
-- 1998-2002, Assistant Professor, Princeton University, USA.
-- 1996-1998, Postdoctoral Researcher, Stanford University, USA.
-- 1994-1996, Lecturer, McMaster University, Canada.
+### &emsp;2022-present, Distinguished Chair Professor, University of Science and Technology of China.
+### &emsp;2019-2022, Distinguished Professor, Stony Brook University, USA. 
+### &emsp;2010-2019, Professor, Stony Brook University, USA.
+### &emsp;2005-2010, Professor, University of Wisconsin–Madison, USA. 
+### &emsp;2002-2005, Associate Professor, University of Wisconsin–Madison, USA.
+### &emsp;1998-2002, Assistant Professor, Princeton University, USA.
+### &emsp;1996-1998, Postdoctoral Researcher, Stanford University, USA.
+### &emsp;1994-1996, Lecturer, McMaster University, Canada.
     
