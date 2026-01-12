@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+---
 Institute of Geometry and Physics, University of Science and Technology of China
 
 School of Mathematical Sciences, University of Science and Technology of China
