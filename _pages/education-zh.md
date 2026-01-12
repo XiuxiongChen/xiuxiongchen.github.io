@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "论文"
-permalink: /zh/publications/
+title: "教育经历"
+permalink: /zh/education/
 lang: zh
 author_profile: true
 ---
