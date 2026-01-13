@@ -11,13 +11,14 @@ redirect_from:
 
 
 <p align="center">
-  <img src="/images/xiuxiongchen.png" alt="Profile photo" width="600">
+  <img src="/images/xiuxiongchen.png" alt="Profile photo" width="700">
 </p>
 
+##Xiuxiong Chen
 
-Institute of Geometry and Physics, University of Science and Technology of China
+Director, Institute of Geometry and Physics, University of Science and Technology of China
 
-School of Mathematical Sciences, University of Science and Technology of China
+Professor, School of Mathematical Sciences, University of Science and Technology of China
 
 No.96 Jinzhai Road, Hefei, Anhui, China, 230026
 
