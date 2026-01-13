@@ -43,11 +43,11 @@ redirect_from:
 
 
  - ## Professors Xiuxiong Chen and Bing Wang Achieve Major Breakthroughs in Ricci Flow Research
-  Recently, a paper entitled “Space of Ricci Flows (II)—Part B: Weak Compactness of the Flows” by Professor Xiuxiong Chen, Founding Director of the Center for Geometry and Physics at the University of Science and Technology of China, and Professor Bing Wang has been published in the internationally renowned mathematics journal, the Journal of Differential Geometry.
+   Recently, a paper entitled “Space of Ricci Flows (II)—Part B: Weak Compactness of the Flows” by Professor Xiuxiong Chen, Founding Director of the Center for Geometry and Physics at the University of Science and Technology of China, and Professor Bing Wang has been published in the internationally renowned mathematics journal, the Journal of Differential Geometry.
   
-  In this work, Chen and Wang were the first to resolve the Hamilton–Tian Conjecture and the Partial 𝐶0-conjecture, two central open problems in geometric analysis that had remained unsolved for more than two decades. The paper exceeds 120 pages in length and underwent a six-year review and publication process from submission to final acceptance.
+   In this work, Chen and Wang were the first to resolve the Hamilton–Tian Conjecture and the Partial 𝐶0-conjecture, two central open problems in geometric analysis that had remained unsolved for more than two decades. The paper exceeds 120 pages in length and underwent a six-year review and publication process from submission to final acceptance.
   
-  The referees commented that “this paper represents a major advance in geometric analysis and will undoubtedly stimulate a great deal of related research.” Fields Medalist Simon Donaldson has also repeatedly praised the work in the media and in his writings, describing it as “one of the most significant breakthroughs in geometry in recent years.”
+   The referees commented that “this paper represents a major advance in geometric analysis and will undoubtedly stimulate a great deal of related research.” Fields Medalist Simon Donaldson has also repeatedly praised the work in the media and in his writings, describing it as “one of the most significant breakthroughs in geometry in recent years.”
   
  &emsp;&emsp;**[Link](https://igp.ustc.edu.cn/2021/1110/c29243a532052/page.htm)**
 
