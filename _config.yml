@@ -23,14 +23,14 @@ repository               : "XiuxiongChen/xiuxiongchen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xiuxiongchen.png"
-  name             : "Xiuxiong Chen"
+  #avatar           : "xiuxiongchen.png"
+  #name             : "Xiuxiong Chen"
   pronouns         : # example: "she/her"  
-  bio              : "陈秀雄"
-  location         : "China"
-  employer         : "USTC"
+  #bio              : "陈秀雄"
+  #location         : "China"
+  #employer         : "USTC"
   uri              : # URL
-  email            : "xxchen@ustc.edu.cn" 
+ # email            : "xxchen@ustc.edu.cn" 
 
   # Academic websites
   academia         : # URL
