@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "新闻"
+title: "新闻报道"
 permalink: /zh/in the news/
 lang: zh
 author_profile: true
