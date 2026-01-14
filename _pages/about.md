@@ -16,10 +16,10 @@ redirect_from:
 
 ## Xiuxiong Chen
 
-Director, Institute of Geometry and Physics, University of Science and Technology of China
+&emsp;&emsp;Director, Institute of Geometry and Physics, University of Science and Technology of China
 
-Professor, School of Mathematical Sciences, University of Science and Technology of China
+&emsp;&emsp;Professor, School of Mathematical Sciences, University of Science and Technology of China
 
-No.96 Jinzhai Road, Hefei, Anhui, China, 230026
+&emsp;&emsp;No.96 Jinzhai Road, Hefei, Anhui, China, 230026
 
-Email: xxchen@ustc.edu.cn
+&emsp;&emsp;Email: xxchen@ustc.edu.cn
